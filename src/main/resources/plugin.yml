@@ -1,0 +1,6 @@
+name: RandomAmount
+version: ${project.version}
+main: me.lojosho.randomamount.RandomAmount
+api-version: 1.16
+authors: [ LoJoSho ]
+description: Randomly drops a different amount of blocks
